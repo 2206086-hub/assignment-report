@@ -5,4 +5,4 @@ This repository contains my GitHub assignment for the course.
 - **README.md** – This file, describing the project purpose.  
 
 Created by: [ryan muchemi]  
-Date: November 2025
+Date: November 2025.
